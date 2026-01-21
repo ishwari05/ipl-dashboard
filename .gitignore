@@ -1,0 +1,39 @@
+# Data files (don't commit large databases)
+data/ipl_stats.db
+data/*.db
+data/update_log.txt
+data/last_updated.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
