@@ -210,8 +210,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with love for cricket analytics
 - Inspired by data engineering best practices
 
----
-
-**Made with ❤️ by a data engineering enthusiast**
-
-*Star this repo if you found it helpful!* ⭐
