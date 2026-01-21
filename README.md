@@ -2,7 +2,6 @@
 
 An end-to-end data engineering project that extracts, transforms, and visualizes IPL (Indian Premier League) cricket player statistics.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=IPL+Dashboard+Preview)
 
 ## 📊 Features
 
@@ -11,10 +10,6 @@ An end-to-end data engineering project that extracts, transforms, and visualizes
 - **Automated Updates**: Self-maintaining system with scheduled data refreshes
 - **Player Analytics**: Comprehensive analysis of batting and bowling statistics
 - **Real-time Filtering**: Filter data by years and search players
-
-## 🚀 Live Demo
-
-[View Live Dashboard](https://your-app-name.streamlit.app) *(Deploy after pushing to GitHub)*
 
 ## 🛠 Tech Stack
 
